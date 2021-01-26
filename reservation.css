@@ -1,0 +1,46 @@
+body {
+  width: 70%;
+  justify-content: center; 
+  margin-left: 15%;
+} 
+
+a {
+  font-size: 14px;
+}
+
+.form-header h3 {
+  margin: 10px;
+}
+
+.header {
+  width: 100%;
+  display: block;
+}
+
+.form-container {
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  border-bottom: 1px solid gray;
+  border-radius: 10px;
+}
+
+.form-header {
+  height: 35px;
+  background: gray;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+.form-group {
+  margin: 10px;
+  font-weight: bold;
+}
+
+#sub-btn {
+  margin: 10px;
+}
